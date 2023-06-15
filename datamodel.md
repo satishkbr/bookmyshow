@@ -1,6 +1,8 @@
 references:
 https://vertabelo.com/blog/a-database-model-for-a-movie-theater-reservation-system/
 https://www.edrawmax.com/templates/1016562/
+list of theateres in india:
+https://davp.nic.in/thupload/public_theatre_list.aspx
 
 Entities(Tables):
 Customer : types: end customer, Theater partner, Admin, support
@@ -18,5 +20,7 @@ TheatrePartner(business Model):
 1.Analyse the functional requirements, and add the columns(attributes) to the above table
 2. Work on the Springboot application
 3. containerize the springboot application.
+
+
 
 
