@@ -8,7 +8,7 @@ aws developer :
  
 Github account:
 
-Manisha :
+MG :
 Data Model design : choose the DB(MySQL)
 schema.sql
 data.sql
@@ -16,16 +16,16 @@ Spring boot application: aws fargate
 Identify the functional endpoints: rest api
 Security
 
-Sathya :
+SO :
  Kafka related stuffs: schema, security, conenctors, sizing, scaling, HA
  Elastic
  
  Documentation:
 
-Ravi:
+RC:
 Monitoring, tracing
 
-SAtish:
+ST:
 aws devops pipeline: ci/cd
 jenkins/ ansible/helm chart :
 istio mesh
